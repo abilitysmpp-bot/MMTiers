@@ -698,7 +698,8 @@
     "uuid": "8923e23e-c95a-46b0-a95e-998bff667eea",
     "name": "itzMt_",
     "rankings": {
-      "crystal": { "tier": 4, "pos": 0 }
+      "crystal": { "tier": 4, "pos": 0 },
+      "sword": { "tier": 4, "pos": 0 }
 }
   },
   {
