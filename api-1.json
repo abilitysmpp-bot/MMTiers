@@ -120,7 +120,7 @@
       "cart": { "tier": 3, "pos": 1 },
       "dsmp": { "tier": 3, "pos": 0 },
       "dpot": { "tier": 3, "pos": 0 },
-      "smp": { "tier": 3, "pos": 1 },
+      "smp": { "tier": 2, "pos": 1 },
       "uhc": { "tier": 3, "pos": 0 },
       "axe": { "tier": 3, "pos": 1 },
       "shieldlessuhc": { "tier": 3, "pos": 0 },
